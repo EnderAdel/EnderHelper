@@ -1,0 +1,7 @@
+.git/
+node_modules/
+packed-versions/*
+!packed-versions/.keep
+process/executables/*
+!process/executables/.keep
+!.gitignore

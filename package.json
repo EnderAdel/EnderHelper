@@ -1,0 +1,16 @@
+{
+  "name": "enderbuilder",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "Node start.js"
+  },
+  "license": "MIT",
+  "description": "EnderBuilder is a tool used by EnderFramework to pack EnderFramework",
+  "author": "EnderAdel <enderadel.email@gmail.com>",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "electron-winstaller": "^4.0.1",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
