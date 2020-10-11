@@ -1,5 +1,4 @@
 /* EnderAdel */
-
 const { start } = require("repl");
 
 const readline = require("readline"), fs = require("fs"), spawn = require('child_process').spawn, execute = (content = null, exit_callback = function(){}, stdout_callback = function(){}, stderr_callback = function(){}) => {
